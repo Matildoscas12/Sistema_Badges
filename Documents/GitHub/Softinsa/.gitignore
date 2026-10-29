@@ -1,0 +1,3 @@
+# Ignorar uploads e artefactos
+Softinsa_api/uploads/
+*.apk
